@@ -11,6 +11,10 @@ export function CallingCard() {
         Olga Bortniak
       </h1>
 
+      <p className="mt-2 text-sm font-medium text-muted-foreground">
+        Now on GitHub
+      </p>
+
       <p className="mt-4 text-lg leading-relaxed text-foreground text-pretty">
         Autonomous creative and digital professional with 20+ years of remote
         experience.
